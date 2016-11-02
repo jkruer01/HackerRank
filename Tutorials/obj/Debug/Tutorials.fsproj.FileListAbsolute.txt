@@ -1,0 +1,7 @@
+C:\Src\HackerRank\Tutorials\bin\Debug\Tutorials.XML
+C:\Src\HackerRank\Tutorials\bin\Debug\Tutorials.dll
+C:\Src\HackerRank\Tutorials\bin\Debug\Tutorials.pdb
+C:\Src\HackerRank\Tutorials\bin\Debug\FSharp.Core.dll
+C:\Src\HackerRank\Tutorials\bin\Debug\FSharp.Core.xml
+C:\Src\HackerRank\Tutorials\obj\Debug\Tutorials.dll
+C:\Src\HackerRank\Tutorials\obj\Debug\Tutorials.pdb

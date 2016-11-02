@@ -1,0 +1,8 @@
+C:\Src\HackerRank\HackerRank\bin\Debug\HackerRank.exe.config
+C:\Src\HackerRank\HackerRank\bin\Debug\HackerRank.XML
+C:\Src\HackerRank\HackerRank\bin\Debug\HackerRank.exe
+C:\Src\HackerRank\HackerRank\bin\Debug\HackerRank.pdb
+C:\Src\HackerRank\HackerRank\bin\Debug\FSharp.Core.dll
+C:\Src\HackerRank\HackerRank\bin\Debug\FSharp.Core.xml
+C:\Src\HackerRank\HackerRank\obj\Debug\HackerRank.exe
+C:\Src\HackerRank\HackerRank\obj\Debug\HackerRank.pdb
