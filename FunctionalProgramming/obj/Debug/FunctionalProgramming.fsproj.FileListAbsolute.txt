@@ -1,7 +1,0 @@
-C:\Src\HackerRank\FunctionalProgramming\bin\Debug\FunctionalProgramming.XML
-C:\Src\HackerRank\FunctionalProgramming\bin\Debug\FunctionalProgramming.dll
-C:\Src\HackerRank\FunctionalProgramming\bin\Debug\FunctionalProgramming.pdb
-C:\Src\HackerRank\FunctionalProgramming\bin\Debug\FSharp.Core.dll
-C:\Src\HackerRank\FunctionalProgramming\bin\Debug\FSharp.Core.xml
-C:\Src\HackerRank\FunctionalProgramming\obj\Debug\FunctionalProgramming.dll
-C:\Src\HackerRank\FunctionalProgramming\obj\Debug\FunctionalProgramming.pdb
