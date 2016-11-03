@@ -1,18 +1,14 @@
 ﻿open System
 
 let splitWords (input:String) =
-    let evenChars = 
+    let filterOnIndex input func = 
         [0 .. (String.length input - 1)]
-        |> List.filter(fun num -> num % 2 = 0)
+        |> List.filter(func)
         |> List.fold(fun (sb:System.Text.StringBuilder) index -> sb.Append(input.[index])) (new System.Text.StringBuilder())
         |> fun x -> x.ToString()
-        
-    let oddChars = 
-        [0 .. (String.length input - 1)]
-        |> List.filter(fun num -> num % 2 <> 0)
-        |> List.fold(fun (sb:System.Text.StringBuilder) index -> sb.Append(input.[index])) (new System.Text.StringBuilder())
-        |> fun x -> x.ToString()
-    
+
+    let evenChars = filterOnIndex input (fun num -> num % 2 = 0)        
+    let oddChars = filterOnIndex input (fun num -> num % 2 <> 0)
     String.Format ("{0} {1}", evenChars, oddChars)
 
 let main _ = 
