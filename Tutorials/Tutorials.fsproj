@@ -61,6 +61,8 @@
     <None Include="CrackingTheCodingInterview\Arrays-LeftRotation.fsx" />
     <None Include="10 Days of Statistics\Day0-MeanMedianMode.fsx" />
     <None Include="10 Days of Statistics\Day0-WeightedMean.fsx" />
+    <None Include="10 Days of Statistics\Day1-Quartiles.fsx" />
+    <None Include="10 Days of Statistics\Day1-InterquartileRange.fsx" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
