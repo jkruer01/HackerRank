@@ -57,6 +57,7 @@
     <None Include="30DaysOfCode\Day3-IntroToConditionalStatements.fsx" />
     <None Include="30DaysOfCode\Day4-ClassVsInstance.cs" />
     <None Include="30DaysOfCode\Day5-Loops.fsx" />
+    <None Include="30DaysOfCode\Day6-LetsReview.fsx" />
     <None Include="CrackingTheCodingInterview\Arrays-LeftRotation.fsx" />
     <None Include="10 Days of Statistics\Day0-MeanMedianMode.fsx" />
     <None Include="10 Days of Statistics\Day0-WeightedMean.fsx" />
