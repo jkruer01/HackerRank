@@ -58,6 +58,8 @@
     <None Include="Introduction\EvaluatingEX.fsx" />
     <None Include="Recursion\ComputingTheGCD.fsx" />
     <None Include="Recursion\FibonacciNumbers.fsx" />
+    <None Include="Recursion\StringMingling.fsx" />
+    <None Include="Recursion\StringOPermute.fsx" />
     <None Include="Ad Hoc\JumpingBunnies.fsx" />
   </ItemGroup>
   <PropertyGroup>
