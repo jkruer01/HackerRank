@@ -60,6 +60,7 @@
     <None Include="Recursion\FibonacciNumbers.fsx" />
     <None Include="Recursion\StringMingling.fsx" />
     <None Include="Recursion\StringOPermute.fsx" />
+    <None Include="Recursion\StringCompression.fsx" />
     <None Include="Ad Hoc\JumpingBunnies.fsx" />
   </ItemGroup>
   <PropertyGroup>
