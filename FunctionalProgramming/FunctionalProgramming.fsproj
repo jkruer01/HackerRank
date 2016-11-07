@@ -61,6 +61,7 @@
     <None Include="Recursion\StringMingling.fsx" />
     <None Include="Recursion\StringOPermute.fsx" />
     <None Include="Recursion\StringCompression.fsx" />
+    <None Include="Recursion\PrefixCompression.fsx" />
     <None Include="Ad Hoc\JumpingBunnies.fsx" />
   </ItemGroup>
   <PropertyGroup>
