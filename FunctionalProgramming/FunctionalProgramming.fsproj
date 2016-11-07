@@ -63,6 +63,7 @@
     <None Include="Recursion\StringCompression.fsx" />
     <None Include="Recursion\PrefixCompression.fsx" />
     <None Include="Recursion\StringReductions.fsx" />
+    <None Include="Recursion\FilterElements.fsx" />
     <None Include="Ad Hoc\JumpingBunnies.fsx" />
   </ItemGroup>
   <PropertyGroup>
